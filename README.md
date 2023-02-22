@@ -24,9 +24,6 @@ mvn clean package
 
 ## Usage
 To run the application, use the following command:
-```
-mvn clean package
-```
 
 ```
 java -jar target/WeatherAPI-0.0.1-SNAPSHOT.jar
