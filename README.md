@@ -35,4 +35,4 @@ You will be prompted to enter the name of a city. Once you enter a city name, th
 ![1](https://user-images.githubusercontent.com/99887425/220771806-dea2635a-1661-4179-b77a-df8a116e508b.jpg)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abdullahbakis/WeatherAPI/blob/master/LICENCE) file for details.
