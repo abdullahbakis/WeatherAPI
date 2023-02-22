@@ -32,6 +32,7 @@ java -jar target/WeatherAPI-0.0.1-SNAPSHOT.jar
 You will be prompted to enter the name of a city. Once you enter a city name, the application will retrieve and display the daily, weekly, and monthly weather data for that city.
 
 ## Output
+![1](https://user-images.githubusercontent.com/99887425/220771806-dea2635a-1661-4179-b77a-df8a116e508b.jpg)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE]() file for details.
