@@ -1,5 +1,5 @@
 # WeatherAPI
-This is a Java application that provides daily, weekly, and monthly weather data for a given city.
+This is a Java application that provides daily, weekly, and monthly weather data for a given city by user.
 
 ## Prerequisites
 To run this application, you will need:
